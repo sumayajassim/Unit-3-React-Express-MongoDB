@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/3ICCGrF.jpg">
+
 # Unit-3-React-Express-MongoDB
 
 ## Welcome to Unit 3 :) ! 
