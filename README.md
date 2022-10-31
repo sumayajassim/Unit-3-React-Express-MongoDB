@@ -2,7 +2,7 @@
 
 # Unit 3 React Express MongoDB
 
-## Welcome to Unit 3 :) ! 
+## Welcome to Unit 3 :fireworks: ! 
 
 In this repository, you will find helpful lessons and labs that we will go through in class. We will continue to update this repository with new lessons and labs as we continue through the unit. 
 
