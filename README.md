@@ -18,7 +18,7 @@ When we add new resources to this repository, you can pull the new changes with 
 
 ```
 
-git pull origin upstream 
+git pull upstream main 
 
 ```
 
