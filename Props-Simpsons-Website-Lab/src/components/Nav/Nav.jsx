@@ -28,7 +28,7 @@ export default function Nav(props) {
 
             <div className="lower-nav">
                 <ul className="lower-nav-ul">
-                    <NavMenuItem/>
+                    <NavMenuItem listItems={['Flanders Facts', 'Favourite Drinks at Mo\'s']}/>
                     <NavMenuItem/>
                     <NavMenuItem/>
                     <NavMenuItem/>
